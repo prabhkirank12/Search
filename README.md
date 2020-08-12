@@ -25,3 +25,6 @@ This project is basically creating a "Google" page with multiple pages within us
   - Any **<input>** element(whether its **type** is **text**, **submit**, **number**, or something else entirely) can have **name** and **value** attributes that will become GET parameters when a form is submitted.
   - You're may also find it helpful to look at Google's own HTML to answer these questions. In most browsers, you can control-click or right-click on a page and choose "View Page Source" to view the page's underlying HTML.
 - To include an input field in a form that users cannot see or modify, you can use a **"hidden"** input field.
+
+# For more details
+https://cs50.harvard.edu/web/2020/projects/0/search/#:~:text=The%20CSS%20you%20write%20should%20match%20Google%E2%80%99s%20own%20aesthetics%20as%20best%20as%20possible.
