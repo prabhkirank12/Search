@@ -2,7 +2,7 @@
 A front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 ## Background
-This project is basically creating a "Google" page with multiple pages within using HTML, CSS, JS.
+This project is basically creating a "Google" page with multiple pages within, using HTML, CSS, JS.
 
 ## Specification(Requirements)
 - **Pages**.Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
